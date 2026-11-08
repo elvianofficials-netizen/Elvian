@@ -1,0 +1,9 @@
+{
+  "name": "elvian-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Optional Elvian backend: secret-code lock, prompt counter and AI proxy (no dependencies).",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
